@@ -1,1 +1,1 @@
-The Go Programming Language examples
+The Go Programming Language exercises
